@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Vladislav-Lukyanuk
 - 👀 I’m interested in web development
-- 📫 You can reach me using email address - vlukyanuk.job@gmail.com
+- 📫 You can reach me using the email address - vlukyanuk.job@gmail.com
+- 🌐 My personal web page - https://vladislav-lukyanuk.github.io
+- 🖥 Rem/Px calculator - https://vladislav-lukyanuk.github.io/rem-calculator
