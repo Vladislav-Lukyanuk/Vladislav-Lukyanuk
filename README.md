@@ -3,4 +3,4 @@
 - 📫 You can reach me using the email address - vlukyanuk.job@gmail.com
 - 🌐 My personal web page - https://vladislav-lukyanuk.github.io
 - 🖥 Rem/Px calculator - https://vladislav-lukyanuk.github.io/rem-calculator
-- <img src="https://cdn.iconscout.com/icon/free/png-256/npm-2-569450.png" width="20" height="20" style="vertical-align: bottom"> Flex-Grid - https://www.npmjs.com/package/flex-area-grid
+- <img src="https://cdn.iconscout.com/icon/free/png-256/npm-2-569450.png" width="20" height="20"> Flex-Grid - https://www.npmjs.com/package/flex-area-grid
