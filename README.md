@@ -4,3 +4,4 @@
 - 🌐 My personal web page - https://vladislav-lukyanuk.github.io
 - 🖥 Rem/Px calculator - https://vladislav-lukyanuk.github.io/rem-calculator
 - <img src="https://cdn.iconscout.com/icon/free/png-256/npm-2-569450.png" width="20" height="20"> Flex-Grid - https://www.npmjs.com/package/flex-area-grid
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="12"> YouTube channel - https://www.youtube.com/channel/UCj_5rKVj-__ZGLWIZi8o_iQ
